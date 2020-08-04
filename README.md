@@ -1,2 +1,2 @@
-# Power-BI
-Power BI Model
+# Dynamic Dashboard 
+
